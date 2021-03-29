@@ -6,7 +6,7 @@ homepage: 'https://www.flui.xin/en/'
 repository: 'https://github.com/Rannie/flui'
 documentation: 'https://www.flui.xin/en/widgets/button.html'
 environment:
-  sdk: '>=2.6.0 <3.0.0'
+  sdk: '>=2.10.0 <3.0.0'
 dependencies:
   flutter:
     sdk: flutter
@@ -15,7 +15,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   mockito: ^4.1.1
-  build_runner: ^1.7.3
-  json_serializable: ^3.2.5
+  build_runner: ^1.11.5
+  json_serializable: ^4.0.1
 flutter:
   uses-material-design: true
